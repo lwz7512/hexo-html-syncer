@@ -1,0 +1,30 @@
+{
+  "name": "hexo-html-syncer",
+  "version": "1.0.0",
+  "description": "remote webpage download and save to hexo post.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwz7512/hexo-html-syncer.git"
+  },
+  "keywords": [
+    "webpage",
+    "synchronize",
+    "hexo",
+    "post"
+  ],
+  "author": "lwz7512",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lwz7512/hexo-html-syncer/issues"
+  },
+  "homepage": "https://github.com/lwz7512/hexo-html-syncer#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.85.0",
+    "turndown": "^4.0.1"
+  }
+}
