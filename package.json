@@ -14,7 +14,11 @@
     "webpage",
     "synchronize",
     "hexo",
-    "post"
+    "post",
+    "cli",
+    "html",
+    "markdown",
+    "console"
   ],
   "author": "lwz7512",
   "license": "ISC",
