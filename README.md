@@ -7,7 +7,7 @@ a hexo console plugin, to fetch remote webpage(including image file) and save to
 @2018/03/17
 
 
-## Install
+## Install under hexo blog
 
 ```
 $ npm install hexo-html-syncer --save
